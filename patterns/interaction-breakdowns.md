@@ -1,4 +1,4 @@
-nteraction Breakdowns in Long-Context Human–AI Dialogue
+Interaction Breakdowns in Long-Context Human–AI Dialogue
 
 Failures in Social Rhythm, Boundary Respect, and Conversational Flow
 
